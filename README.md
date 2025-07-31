@@ -11,12 +11,14 @@ Convert PDFs to editable Markdown files using AI-powered OCR. Built with Mistral
 - **Simple**: Double-click to launch - no terminal needed
 - **Accurate**: Powered by Mistral AI's OCR technology
 - **Comprehensive**: Extract text, images, tables, and formatting
-- **Fast**: Process up to 2000 pages per minute
 - **Offline-Ready**: Desktop app with no browser dependencies
+
+  <img width="788" height="866" alt="Screenshot 2025-07-31 202000" src="https://github.com/user-attachments/assets/2ab592a0-e954-468e-b0d9-2c8b28ec07c0" />
+
 
 ## Quick Start
 
-1. **Get API Key**: Sign up at [console.mistral.ai](https://console.mistral.ai/)
+1. **Get API Key**: Sign up and click "Create new key" at [https://console.mistral.ai/api-keys](https://console.mistral.ai/api-keys)
 2. **Launch App**: Double-click `Occurock.bat`
 3. **Convert**: 
    - Enter your API key (saved automatically)
