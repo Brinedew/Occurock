@@ -33,7 +33,7 @@ Convert PDFs to editable Markdown files using AI-powered OCR. Built with Mistral
 
 ### Option 2: From Source
 ```bash
-git clone https://github.com/your-username/occurock.git
+git clone https://github.com/Brinedew/occurock.git
 cd occurock
 pip install -r requirements.txt
 python occurock.py
